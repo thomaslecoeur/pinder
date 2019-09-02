@@ -1,0 +1,25 @@
+{
+  cards: [
+      {
+        id: 123,
+        title: "My card title",
+        imageUrl: "https://via.placeholder.com/350x150",
+        duration: "17:31",
+        tags: ["Blue", "Red"]
+      },
+      {
+        id: 321,
+        title: "My other card title",
+        imageUrl: "https://via.placeholder.com/360x140",
+        duration: "1:31",
+        tags: ["Yellow"]
+      },
+      {
+        id: 221,
+        title: "My third card",
+        imageUrl: "https://via.placeholder.com/310x140",
+        duration: "4:10",
+        tags: ["Purple"]
+      }
+    ]
+}
