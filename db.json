@@ -4,6 +4,7 @@
          "id": 1,
          "title": "My card title",
          "imageUrl": "https://picsum.photos/800/1200?1",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "17:31",
          "tags": [
             "Blue",
@@ -14,6 +15,7 @@
          "id": 2,
          "title": "My other card title",
          "imageUrl": "https://picsum.photos/800/1200?2",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "1:31",
          "tags": [
             "Yellow"
@@ -23,6 +25,7 @@
          "id": 3,
          "title": "My third card",
          "imageUrl": "https://picsum.photos/800/1200?3",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "4:10",
          "tags": [
             "Purple"
@@ -32,6 +35,7 @@
          "id": 4,
          "title": "My third card",
          "imageUrl": "https://picsum.photos/800/1200?4",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "4:10",
          "tags": [
             "Purple"
@@ -41,6 +45,7 @@
          "id": 5,
          "title": "My third card",
          "imageUrl": "https://picsum.photos/800/1200?5",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "4:10",
          "tags": [
             "Purple"
@@ -50,6 +55,7 @@
          "id": 6,
          "title": "My third card",
          "imageUrl": "https://picsum.photos/800/1200?6",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "4:10",
          "tags": [
             "Purple"
@@ -59,6 +65,7 @@
          "id": 7,
          "title": "My third card",
          "imageUrl": "https://picsum.photos/800/1200?7",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "4:10",
          "tags": [
             "Purple"
@@ -68,6 +75,7 @@
          "id": 8,
          "title": "My third card",
          "imageUrl": "https://picsum.photos/800/1200?8",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "4:10",
          "tags": [
             "Purple"
@@ -77,6 +85,7 @@
          "id": 9,
          "title": "My third card",
          "imageUrl": "https://picsum.photos/800/1200?9",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "4:10",
          "tags": [
             "Purple"
@@ -86,6 +95,7 @@
          "id": 10,
          "title": "My third card",
          "imageUrl": "https://picsum.photos/800/1200?10",
+         "videoUrl": "https://storage.googleapis.com/coverr-main/mp4%2FUp.mp4",
          "duration": "4:10",
          "tags": [
             "Purple"
